@@ -1,4 +1,4 @@
-# CS361 Homework 2 Inspecting-Running-Processes
+# Inspecting-Running-Processes
 
 # Programming description
 Find secret for the given executable files(0-4)
