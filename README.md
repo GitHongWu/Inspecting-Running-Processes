@@ -1,5 +1,8 @@
 # CS361 Homework 2 Inspecting-Running-Processes
 
+# Programming description
+Find secret for the given executable files(0-4)
+
 howto.txt is describe in English how to find the secret for the given executable. Each individual howto should be on one more more lines after a line with only the executable number and a period on it.
 
 # Warning
